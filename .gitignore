@@ -187,3 +187,7 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+FreeTweenLab/FreeTweenLab.CSharp.csproj
+FreeTweenLab/Library/
+FreeTweenLab/Temp/
+FreeTweenLab/FreeTweenLab.sln
