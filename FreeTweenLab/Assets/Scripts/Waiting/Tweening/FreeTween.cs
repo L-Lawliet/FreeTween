@@ -14,6 +14,13 @@ namespace Waiting.Tweening
 {
     public class FreeTween
     {
-
+        public static void To(FreeSetter<float> startValue)
+        {
+            
+        }
+        public static float Fun<float>()
+        {
+            return 10.0f;
+        }
     }
 }
